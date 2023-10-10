@@ -92,7 +92,3 @@ $ yarn test:e2e
 # test coverage
 $ yarn test:cov
 ```
-
-## Stay in touch
-
-- Website - [https://mpcsj.com](https://mpcsj.com/)
